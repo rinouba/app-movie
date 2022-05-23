@@ -1,0 +1,5 @@
+9eb9a75b0a60688ecc1860f176abf14e
+
+Please append it to all of your API requests,
+
+https://api.themoviedb.org/3/ + act + &api_key=9eb9a75b0a60688ecc1860f176abf14e
