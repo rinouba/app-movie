@@ -47,7 +47,6 @@ function Main() {
                     {
                         arr.map((value)=>{
                                 return(
-                                    // eslint-disable-next-line jsx-a11y/anchor-is-valid
                                     <li><a href="#" name={value} onClick={(e)=>{
                                         getData(e.target.name)
                                     }}>{value}</a></li>
